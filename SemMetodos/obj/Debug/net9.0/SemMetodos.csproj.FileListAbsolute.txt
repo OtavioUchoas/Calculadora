@@ -7,6 +7,7 @@ C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\obj\Debug\net9.0\SemM
 C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\obj\Debug\net9.0\SemMetodos.AssemblyInfoInputs.cache
 C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\obj\Debug\net9.0\SemMetodos.AssemblyInfo.cs
 C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\obj\Debug\net9.0\SemMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\obj\Debug\net9.0\SemMetodos.sourcelink.json
 C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\obj\Debug\net9.0\SemMetodos.dll
 C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\obj\Debug\net9.0\refint\SemMetodos.dll
 C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\obj\Debug\net9.0\SemMetodos.pdb

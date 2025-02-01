@@ -54,7 +54,7 @@ namespace SemMetodos
                 {
                     while (true)
                     {
-                        Console.WriteLine("Insira um simbolo valido");
+                        Console.WriteLine("Insira um simbolo valido!");
                         simbolo = Console.ReadLine();
                         if (simbolo != "+" && simbolo != "-" && simbolo != "*" && simbolo != "/")
                         {
@@ -127,7 +127,7 @@ namespace SemMetodos
             {
                 while (true)
                 {
-                    Console.WriteLine("Digite um valor diferente de 0 , animal.");
+                    Console.WriteLine("Digite um valor diferente de 0!");
                     n = int.Parse(Console.ReadLine());
                     if (n != 0)
                     {

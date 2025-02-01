@@ -1,0 +1,14 @@
+C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\bin\Debug\net9.0\SemMetodos.exe
+C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\bin\Debug\net9.0\SemMetodos.deps.json
+C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\bin\Debug\net9.0\SemMetodos.runtimeconfig.json
+C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\bin\Debug\net9.0\SemMetodos.dll
+C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\bin\Debug\net9.0\SemMetodos.pdb
+C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\obj\Debug\net9.0\SemMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\obj\Debug\net9.0\SemMetodos.AssemblyInfoInputs.cache
+C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\obj\Debug\net9.0\SemMetodos.AssemblyInfo.cs
+C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\obj\Debug\net9.0\SemMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\obj\Debug\net9.0\SemMetodos.dll
+C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\obj\Debug\net9.0\refint\SemMetodos.dll
+C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\obj\Debug\net9.0\SemMetodos.pdb
+C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\obj\Debug\net9.0\SemMetodos.genruntimeconfig.cache
+C:\Users\Pessoal\Desktop\Projetinhos\SemMetodos\SemMetodos\obj\Debug\net9.0\ref\SemMetodos.dll
